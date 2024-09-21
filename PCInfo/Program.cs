@@ -16,7 +16,7 @@ namespace PCInfo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new PCInfo.Forms.Main());
         }
     }
 }
